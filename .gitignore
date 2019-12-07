@@ -25,4 +25,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # anomalous.film
-config.js
+server/config.js

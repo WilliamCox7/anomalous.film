@@ -5,6 +5,7 @@ import reset from '../styles/reset';
 
 class MyApp extends App {
   render() {
+    // TODO: need to get if admin with getInitialProps
     const { Component, pageProps } = this.props;
     return (
       <>
